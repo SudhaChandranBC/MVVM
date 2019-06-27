@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM/Networking/APIClient.swift"
+            timestampString = "583310768.284954"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "request(_:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM/View/BannerViewController.swift"
+            timestampString = "583310768.285432"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM.BannerViewController.loadData() -&gt; ()"
+                  moduleName = "MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudha.chandran/Desktop/MVVM/MVVM/View/BannerViewController.swift"
+                  timestampString = "583305485.22341"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "22">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVM.BannerResponse, Swift.Optional&lt;MVVM.APIError&gt;) -&gt; () in MVVM.BannerViewController.loadData() -&gt; ()"
+                  moduleName = "MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudha.chandran/Desktop/MVVM/MVVM/View/BannerViewController.swift"
+                  timestampString = "583305485.226195"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM/Networking/APIClient.swift"
+            timestampString = "583310768.287295"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "composeRequest(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM/Data Provider/BannerDataProvider.swift"
+            timestampString = "583310768.287405"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "loadRaceBanner(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM.BannerDataProvider.loadRaceBanner(completion: (MVVM.BannerResponse, Swift.Optional&lt;MVVM.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudha.chandran/Desktop/MVVM/MVVM/Data%20Provider/BannerDataProvider.swift"
+                  timestampString = "583305485.245175"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVM.Response&lt;MVVM.BannerResponse, MVVM.APIError&gt;) -&gt; () in MVVM.BannerDataProvider.loadRaceBanner(completion: (MVVM.BannerResponse, Swift.Optional&lt;MVVM.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudha.chandran/Desktop/MVVM/MVVM/Data%20Provider/BannerDataProvider.swift"
+                  timestampString = "583305485.24766"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM/Networking/APIClient.swift"
+            timestampString = "583310768.2877769"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "request(_:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in MVVM.APIClient.request&lt;A where A: MVVM.API&gt;(_: A, completion: (MVVM.Response&lt;A.ResponseType, MVVM.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudha.chandran/Desktop/MVVM/MVVM/Networking/APIClient.swift"
+                  timestampString = "583305485.254612"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "189">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in MVVM.APIClient.request&lt;A where A: MVVM.API&gt;(_: A, completion: (MVVM.Response&lt;A.ResponseType, MVVM.APIError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudha.chandran/Desktop/MVVM/MVVM/Networking/APIClient.swift"
+                  timestampString = "583305485.25711"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "219">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM/View/BannerViewController.swift"
+            timestampString = "583310768.288256"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVM.BannerViewController.loadData() -&gt; ()"
+                  moduleName = "MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudha.chandran/Desktop/MVVM/MVVM/View/BannerViewController.swift"
+                  timestampString = "583305489.420222"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "75">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MVVM.BannerResponse, Swift.Optional&lt;MVVM.APIError&gt;) -&gt; () in MVVM.BannerViewController.loadData() -&gt; ()"
+                  moduleName = "MVVM"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sudha.chandran/Desktop/MVVM/MVVM/View/BannerViewController.swift"
+                  timestampString = "583305489.423187"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM/View/BannerViewController.swift"
+            timestampString = "583310768.28889"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "loadData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVM/Extentions/SwiftyJSON_mvvm.swift"
+            timestampString = "583310768.289435"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getSubJson(_:keys:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
