@@ -95,6 +95,9 @@ public class APIClient: NSObject {
                     DispatchQueue.main.async {
                         switch(response.result) {
                         case .success(let json):
+                            let decoder = JSONDecoder()
+//                            let products = try decoder.decode([GroceryProduct].self, from: json)
+                            
                             let jsonVal = JSON(json)
                             
                             if jsonVal[Constant.submit] == true,

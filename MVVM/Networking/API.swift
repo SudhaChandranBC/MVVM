@@ -9,7 +9,7 @@
 import Foundation
 
 public protocol API {
-    associatedtype ResponseType: JsonInitializable, DefaultInitializable
+    associatedtype ResponseType: Decodable
     
     var method: HTTPMethod { get }
     var path: String { get }
